@@ -1,0 +1,7 @@
+List of potential test cases:
+
+cat | ls
+
+./pipe
+
+./pipe ls bogus wc
